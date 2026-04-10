@@ -33,7 +33,9 @@ and a Power BI interactive dashboard.
 ---
 
 ## 🗂️ Project Structure
+
 customer-churn-analysis/
+
 ├── churn_analysis.ipynb # Main analysis notebook
 ├── churn.db # SQLite database
 ├── churn_by_contract.png # Chart 1
